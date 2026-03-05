@@ -1,0 +1,7 @@
+{
+  "name": "AgriDrone AI",
+  "description": "Autonomous drone-based agriculture monitoring system with AI analysis and anomaly detection for precision farming.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
